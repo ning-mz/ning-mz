@@ -84,7 +84,7 @@ Dengpan Yuan, Maizhen Ning, Runguo Xu, Shuming Zhou, Wentao Shi, Kai Zheng, Xin 
 
 
 
-### 🚧 My Todoist Stats: ⬇️
+### 🚧 TODO: ⬇️
 
 Release code of: A Symbolic Characters Aware Model for Solving Geometry Problems
 
