@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 
 ### 📝 Publications
-__Maizhen Ning__, Qiufeng Wang, Kaizhu Huang, Xiaowei Huang. A Symbolic Characters Aware Model for Solving Geometry Problems - _ACM MM 2023 Accepted_
+__Maizhen Ning__, Qiufeng Wang, Kaizhu Huang, Xiaowei Huang. [A Symbolic Characters Aware Model for Solving Geometry Problems](https://arxiv.org/pdf/2308.02823.pdf) - _ACM MM 2023 Accepted_
 
 Zihao Zhou*, __Maizhen Ning*__, Qiufeng Wang, Jie Yao, Wei Wang, Xiaowei Huang, Kaizhu Huang. [Learning by Analogy: Diverse Questions Generation in Math Word Problem](https://aclanthology.org/2023.findings-acl.705/) - _ACL Findings 2023_
 
