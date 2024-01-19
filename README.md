@@ -87,5 +87,5 @@ Dengpan Yuan, Maizhen Ning, Runguo Xu, Shuming Zhou, Wentao Shi, Kai Zheng, Xin 
 
 ### 🚧 TODO: ⬇️
 
-Release code of: A Symbolic Character-Aware Model for Solving Geometry Problems
+LLM on solving geometry problems.
 
