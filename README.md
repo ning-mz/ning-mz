@@ -29,8 +29,13 @@
 ![PyTorch][PyTorch] 
 ![TensorFlow][TensorFlow]
 
-I am currently a PhD student at Xi'an Jiaotong-Liverpool University and also registered at the University of Liverpool. Focus on solving math problems with AI. 
+I am currently a PhD student at Xi'an Jiaotong-Liverpool University and also registered at the University of Liverpool. 
+I am also a student in the research group [PremiLab-Math](https://premilab-math.github.io), focus on solving math problems with AI. 
+
+
 Also welcome to check my Bilibili space <a href="https://space.bilibili.com/268165497" target="_blank"><img src="https://img.shields.io/badge/B站--blue?logo=bilibili" alt="video-bilibili"></a>.
+
+
 
 <!--
 **ning-mz/ning-mz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
