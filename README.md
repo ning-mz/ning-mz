@@ -61,6 +61,9 @@ Here are some ideas to get you started:
 
 
 ### 📝 Publications
+
+Zihao Zhou*, Shudong Liu*, __Maizhen Ning__, Wei Liu, Jindong Wang, Derek F. Wong, Xiaowei Huang, Qiufeng Wang, Kaizhu Huang. [Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist](https://arxiv.org/pdf/2407.08733) - _Preprint_
+
 __Maizhen Ning__, Qiufeng Wang, Kaizhu Huang, Xiaowei Huang. [A Symbolic Characters Aware Model for Solving Geometry Problems](https://dl.acm.org/doi/10.1145/3581783.3612570) - _ACM MM 2023_
 
 Zihao Zhou*, __Maizhen Ning*__, Qiufeng Wang, Jie Yao, Wei Wang, Xiaowei Huang, Kaizhu Huang. [Learning by Analogy: Diverse Questions Generation in Math Word Problem](https://aclanthology.org/2023.findings-acl.705/) - _ACL Findings 2023_
