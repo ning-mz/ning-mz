@@ -62,13 +62,17 @@ Here are some ideas to get you started:
 
 ### 📝 Publications
 
-Zihao Zhou*, Shudong Liu*, __Maizhen Ning__, Wei Liu, Jindong Wang, Derek F. Wong, Xiaowei Huang, Qiufeng Wang, Kaizhu Huang. [Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist](https://arxiv.org/pdf/2407.08733) - _Preprint_
+[Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist](https://arxiv.org/pdf/2407.08733) - _Preprint_
+Zihao Zhou*, Shudong Liu*, __Maizhen Ning__, Wei Liu, Jindong Wang, Derek F. Wong, Xiaowei Huang, Qiufeng Wang, Kaizhu Huang. 
 
-__Maizhen Ning__, Qiufeng Wang, Kaizhu Huang, Xiaowei Huang. [A Symbolic Characters Aware Model for Solving Geometry Problems](https://dl.acm.org/doi/10.1145/3581783.3612570) - _ACM MM 2023_
+[A Symbolic Characters Aware Model for Solving Geometry Problems](https://dl.acm.org/doi/10.1145/3581783.3612570) - _ACM MM 2023_
+__Maizhen Ning__, Qiufeng Wang, Kaizhu Huang, Xiaowei Huang.
 
-Zihao Zhou*, __Maizhen Ning*__, Qiufeng Wang, Jie Yao, Wei Wang, Xiaowei Huang, Kaizhu Huang. [Learning by Analogy: Diverse Questions Generation in Math Word Problem](https://aclanthology.org/2023.findings-acl.705/) - _ACL Findings 2023_
+[Learning by Analogy: Diverse Questions Generation in Math Word Problem](https://aclanthology.org/2023.findings-acl.705/) - _ACL Findings 2023_
+Zihao Zhou*, __Maizhen Ning*__, Qiufeng Wang, Jie Yao, Wei Wang, Xiaowei Huang, Kaizhu Huang. 
 
-__Maizhen Ning__, Qiufeng Wang, Kaizhu Huang, Xiaowei Huang. [A Segment-Based Layout Aware Model for Information Extraction on Document Images](https://link.springer.com/chapter/10.1007/978-3-030-92307-5_88) - _ICONIP 2021_
+[A Segment-Based Layout Aware Model for Information Extraction on Document Images](https://link.springer.com/chapter/10.1007/978-3-030-92307-5_88) - _ICONIP 2021_
+__Maizhen Ning__, Qiufeng Wang, Kaizhu Huang, Xiaowei Huang. 
 <!--
 Dengpan Yuan, Maizhen Ning, Runguo Xu, Shuming Zhou, Wentao Shi, Kai Zheng, Xin Huang. [Model checking indoor positioning system with triangulation positioning technology](https://ieeexplore.ieee.org/abstract/document/8589425) - _ITME 2018_
 -->
