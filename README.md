@@ -62,6 +62,9 @@ Here are some ideas to get you started:
 
 ### 📝 Publications
 
+GNS: Solving Plane Geometry Problems by Neural-Symbolic Reasoning with Multi-Modal LLMs -_AAAI 2025_
+__Maizhen Ning*__, Zihao Zhou*, Qiufeng Wang, Xiaowei Huang, Kaizhu Huang. 
+
 [Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist](https://arxiv.org/pdf/2407.08733) - _Preprint_   
 Zihao Zhou*, Shudong Liu*, __Maizhen Ning__, Wei Liu, Jindong Wang, Derek F. Wong, Xiaowei Huang, Qiufeng Wang, Kaizhu Huang. 
 
