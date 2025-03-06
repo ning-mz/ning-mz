@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 
 
-
+<!--
 ### 📝 Publications
 
 GNS: Solving Plane Geometry Problems by Neural-Symbolic Reasoning with Multi-Modal LLMs - _AAAI 2025 Oral_   
@@ -76,7 +76,8 @@ Zihao Zhou*, __Maizhen Ning*__, Qiufeng Wang, Jie Yao, Wei Wang, Xiaowei Huang, 
 
 [A Segment-Based Layout Aware Model for Information Extraction on Document Images](https://link.springer.com/chapter/10.1007/978-3-030-92307-5_88) - _ICONIP 2021_   
 __Maizhen Ning__, Qiufeng Wang, Kaizhu Huang, Xiaowei Huang. 
-<!--
+
+
 Dengpan Yuan, Maizhen Ning, Runguo Xu, Shuming Zhou, Wentao Shi, Kai Zheng, Xin Huang. [Model checking indoor positioning system with triangulation positioning technology](https://ieeexplore.ieee.org/abstract/document/8589425) - _ITME 2018_
 -->
 
@@ -98,6 +99,9 @@ Dengpan Yuan, Maizhen Ning, Runguo Xu, Shuming Zhou, Wentao Shi, Kai Zheng, Xin 
 </tbody></table>
 -->
 
+### 📝 Personal Website
+
+[https](https://ning-mz.github.io)
 
 
 ### 🚧 TODO: ⬇️
