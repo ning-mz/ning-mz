@@ -101,7 +101,7 @@ Dengpan Yuan, Maizhen Ning, Runguo Xu, Shuming Zhou, Wentao Shi, Kai Zheng, Xin 
 
 ### 📝 Personal Website
 
-[https](https://ning-mz.github.io)
+[ning-mz](https://ning-mz.github.io)
 
 
 ### 🚧 TODO: ⬇️
