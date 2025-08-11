@@ -29,8 +29,8 @@
 ![PyTorch][PyTorch] 
 ![TensorFlow][TensorFlow]
 
-I am currently a Research Intern at Duke Kunshan University working on Humanoid Robotic. In previous, I obatined Ph.D. in Computer Science from the University of Liverpool. 
-I am also a member of the research group [PremiLab-Math](https://premilab-math.github.io), focus on solving math problems with AI.
+I am currently a PostDoc Research Fellow at Duke Kunshan University working on Humanoid Robotic. In previous, I obatined Ph.D. in Computer Science from the University of Liverpool. 
+I am also a member of the research group [PremiLab-Math](https://premilab-math.github.io), focus on solving math problems with AI. Now I have extend the research area to embodied robotics.
 
 
 Also welcome to check my Bilibili space <a href="https://space.bilibili.com/268165497" target="_blank"><img src="https://img.shields.io/badge/B站--blue?logo=bilibili" alt="video-bilibili"></a>.
